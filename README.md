@@ -1,5 +1,3 @@
-# Lab: CSS Drills
-
 CSS Drills
 The purpose of this lab is to practice your CSS fundamentals. We'll be learning how to use and understand the position property, and how order of specificity works in CSS. Let's go!
 
@@ -93,5 +91,3 @@ Wrap each list in a div, give the div a border that is 2 pixels thick, have it b
 It'll look like a multi color fiasco, but the purpose here was to learn how specificity works!
 
 But isn't styling fun? We know it can be tricky and tedious, but the more you practice, the better you'll get at it. After a while, you won't even think about it anymore :)
-
-Discussion
