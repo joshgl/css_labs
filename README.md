@@ -18,7 +18,7 @@ Text and Body Styling
 Assign a global font family
 Here is a list of some Web Safe Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 You could also play around with Google Fonts: https://fonts.google.com/
-Hint: use the body selector.
+Hint: use the body selector.;
 Change the background color for the body element to a light grey color.
 Use a multiple selector rule set to center the text for all h2, p, and a elements.
 Use an element selector to remove the default underline styles for anchor tags and change the font color:
